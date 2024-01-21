@@ -1,6 +1,6 @@
 # weather-display
 
-![alt text]([http://url/to/img.png](https://github.com/at1047/weather-display/blob/main/assets/IMG_1579.JPG)https://github.com/at1047/weather-display/blob/main/assets/IMG_1579.JPG)
+![alt text]([http://url/to/img.png](https://github.com/at1047/weather-display/blob/main/assets/IMG_1579.JPG)https://github.com/at1047/weather-display/blob/main/assets/IMG_1579.JPG?raw=true "main")
 
 ## Use case
 
